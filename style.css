@@ -33,3 +33,14 @@ div.webcam-box{
     background-color: white;
     margin: 0.5rem;
 }
+/* --FOOTER--
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #222222;
+    color: white;
+    text-align: center;
+}
+/*
