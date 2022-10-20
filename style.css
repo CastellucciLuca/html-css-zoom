@@ -44,7 +44,7 @@ main{
 }
 div.container{
     width: 100vw;
-    height: 85vh;
+    height: 70vh;
     flex-wrap: wrap;
 }
 div.webcam-box{
