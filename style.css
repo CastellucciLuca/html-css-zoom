@@ -79,10 +79,10 @@ footer{
     height: 80px;
     background-color: #222222;
     color: white;
-    font-size: 0.9rem;
+    font-size: 0.95rem;
 }
 div.center{
-    width: 40%;
+    width: 50%;
     height: 100%;
 }
 div.left,div.right{
@@ -91,10 +91,12 @@ div.left,div.right{
 }
 div.left{
     justify-content: flex-start;
+    margin-left: 1rem;
 }
 div.right{
     justify-content: flex-end;
     color: red;
+    margin-right: 1rem;
 }
 div.icon-text-bottom span{
     margin-right: 1.5rem;
@@ -104,4 +106,7 @@ div.icon-text-bottom span{
 }
 .fa-solid.fa-share-from-square{
     color: green;
+}
+div.settings-icon{
+    padding-right: 1rem;
 }
