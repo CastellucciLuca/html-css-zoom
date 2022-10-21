@@ -39,9 +39,9 @@ div.view,div.fullscreen{
 }
 /*--MAIN--*/
 main{
-    height:100vh;
+    height:960px;
+    width: 100%;
     background-color: black;
-    background-size: cover;
 }
 div.container{
     width: 100%;
